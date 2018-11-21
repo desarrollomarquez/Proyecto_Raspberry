@@ -1,0 +1,20 @@
+Now enter the names for the buttons.
+
+Please enter the name for the next button (press <ENTER> to finish recording)
+KEY_POWER
+
+Now hold down button "KEY_POWER".
+
+Please enter the name for the next button (press <ENTER> to finish recording)
+KEY_VOLUMEUP
+
+Now hold down button "KEY_VOLUMEUP".
+
+Please enter the name for the next button (press <ENTER> to finish recording)
+KEY_VOLUMEDOWN
+
+Now hold down button "KEY_VOLUMEDOWN".
+
+Please enter the name for the next button (press <ENTER> to finish recording)
+
+Successfully written config file.
